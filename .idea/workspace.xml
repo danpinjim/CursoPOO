@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeda2457-652c-41f2-b232-7b4de65eec46" name="Default Changelist" comment="v1.0">
-      <change afterPath="$PROJECT_DIR$/Vehiculo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herencia_super.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polimosrfismo.py" afterDir="false" />
+    <list default="true" id="aeda2457-652c-41f2-b232-7b4de65eec46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excepciones2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excepciones_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/basicos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/basicos/operaciones_basicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/calculos_generales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/redondeo_potencia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/redondeo_potencia/operaciones_complejas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/dist/paquetedistribuiblecalculos-1.0.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archivo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archivo_externos_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/basicos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/basicos/operaciones_basicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/calculos_generales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/redondeo_potencia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculos_paquete/redondeo_potencia/operaciones_complejas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase_objeto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metodo_cadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/funciones_matematicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/modulo_vehiculos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/uso_modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/uso_vehiculos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serializacion_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serializacion_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso_calculo_paquete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coche.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coche.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coche.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehiculo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +65,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/polimosrfismo.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/serializacion_objects.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.polimosrfismo">
-    <configuration name="Coche" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.serializacion_objects">
+    <configuration name="Excepciones" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Curso_POO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coche.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excepciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Vehiculo" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="Excepciones2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Curso_POO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +102,91 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vehiculo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excepciones2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Excepciones_3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excepciones_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="archivo_externos_txt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/archivo_externos_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clase_objeto" type="PythonConfigurationType" factoryName="Python">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clase_objeto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="herencia" type="PythonConfigurationType" factoryName="Python">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/herencia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,6 +216,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="metodo_cadenas" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metodo_cadenas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="polimosrfismo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Curso_POO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +258,126 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="serializacion_collections" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serializacion_collections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serializacion_objects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serializacion_objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uso_calculo_paquete" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uso_calculo_paquete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uso_modulo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/uso_modulo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uso_vehiculos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Curso_POO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Daniel\anaconda3\envs\pyDPJ\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/uso_vehiculos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Coche" />
-      <item itemvalue="Python.Vehiculo" />
+      <item itemvalue="Python.clase_objeto" />
+      <item itemvalue="Python.herencia" />
+      <item itemvalue="Python.uso_calculo_paquete" />
+      <item itemvalue="Python.archivo_externos_txt" />
+      <item itemvalue="Python.serializacion_collections" />
+      <item itemvalue="Python.serializacion_objects" />
       <item itemvalue="Python.herencia_super" />
       <item itemvalue="Python.polimosrfismo" />
+      <item itemvalue="Python.Excepciones" />
+      <item itemvalue="Python.Excepciones2" />
+      <item itemvalue="Python.Excepciones_3" />
+      <item itemvalue="Python.metodo_cadenas" />
+      <item itemvalue="Python.uso_modulo" />
+      <item itemvalue="Python.uso_vehiculos" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -158,69 +410,127 @@
       <option name="project" value="LOCAL" />
       <updated>1584718162924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v2.0">
+      <created>1584735123270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584735123270</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+    <MESSAGE value="v2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2232" y="89" key="#Notifications" timestamp="1584730387984">
+    <state x="2232" y="89" key="#Notifications" timestamp="1584736683651">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="2232" y="89" key="#Notifications/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584730387984" />
-    <state x="2094" y="86" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584733417312">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state x="2232" y="89" key="#Notifications/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584736683651" />
+    <state x="155" y="0" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585339061315">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="155" y="0" width="1092" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339061314" />
     <state x="2094" y="86" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733417312" />
-    <state x="2294" y="25" key="CommitChangelistDialog2" timestamp="1584729571955">
+    <state x="155" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584779926298" />
+    <state x="2294" y="25" key="CommitChangelistDialog2" timestamp="1584735121287">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="2294" y="25" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584729571955" />
-    <state x="2420" y="195" key="FileChooserDialogImpl" timestamp="1584733415383">
+    <state x="2294" y="25" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584735121287" />
+    <state x="2012" y="92" width="1256" height="676" key="DiffContextDialog" timestamp="1584738013204">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
+    <state x="2012" y="92" width="1256" height="676" key="DiffContextDialog/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584738013204" />
+    <state x="444" y="154" key="FileChooserDialogImpl" timestamp="1585339058910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="444" y="154" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339058910" />
     <state x="2420" y="195" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733415383" />
-    <state width="1419" height="222" key="GridCell.Tab.0.bottom" timestamp="1584733941585">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state x="444" y="154" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584779922931" />
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom" timestamp="1585339517970">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1419" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733941585" />
-    <state width="1419" height="222" key="GridCell.Tab.0.center" timestamp="1584733941585">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339517970" />
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584736377702" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584779928329" />
+    <state width="1259" height="210" key="GridCell.Tab.0.center" timestamp="1585339517970">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1419" height="222" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733941585" />
-    <state width="1419" height="222" key="GridCell.Tab.0.left" timestamp="1584733941585">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1259" height="210" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339517970" />
+    <state width="1419" height="222" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584736377702" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584779928328" />
+    <state width="1259" height="210" key="GridCell.Tab.0.left" timestamp="1585339517970">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1419" height="222" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733941585" />
-    <state width="1419" height="222" key="GridCell.Tab.0.right" timestamp="1584733941585">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1259" height="210" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339517970" />
+    <state width="1419" height="222" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584736377702" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584779928322" />
+    <state width="1259" height="210" key="GridCell.Tab.0.right" timestamp="1585339517970">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1419" height="222" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584733941585" />
-    <state width="1419" height="276" key="GridCell.Tab.1.bottom" timestamp="1584732755052">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1259" height="210" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585339517970" />
+    <state width="1419" height="222" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584736377702" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584779928328" />
+    <state width="1419" height="276" key="GridCell.Tab.1.bottom" timestamp="1584785699704">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1584785699704" />
     <state width="1419" height="276" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584732755052" />
-    <state width="1419" height="276" key="GridCell.Tab.1.center" timestamp="1584732755052">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1419" height="276" key="GridCell.Tab.1.center" timestamp="1584785699704">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1584785699704" />
     <state width="1419" height="276" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584732755052" />
-    <state width="1419" height="276" key="GridCell.Tab.1.left" timestamp="1584732755052">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1419" height="276" key="GridCell.Tab.1.left" timestamp="1584785699704">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1584785699704" />
     <state width="1419" height="276" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584732755052" />
-    <state width="1419" height="276" key="GridCell.Tab.1.right" timestamp="1584732755052">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state width="1419" height="276" key="GridCell.Tab.1.right" timestamp="1584785699704">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1584785699704" />
     <state width="1419" height="276" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584732755052" />
-    <state x="2336" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1584729798884">
+    <state x="2080" y="0" key="SettingsEditor" timestamp="1585336941988">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="2336" y="255" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584729798884" />
-    <state x="2449" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584730378563">
+    <state x="2080" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1585336941988" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584778633738" />
+    <state x="2336" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1585336992182">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="2449" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584730378563" />
+    <state x="370" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585336697266" />
+    <state x="2336" y="255" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1585336992182" />
+    <state x="470" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585337653135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="470" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585337653135" />
+    <state x="2449" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1584738193549" />
   </component>
 </project>

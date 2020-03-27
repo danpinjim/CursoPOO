@@ -48,31 +48,11 @@ class Furgoneta(Vehiculos):
 # Clase que no hereda del resto de la clase vehiculos.
 class VElectricos():
     def __init__(self):
+        super().__init__(marca,modelo)
         self.autonomia = 100
 
     def cargarenergia(self):
         self.cargando = True
 
 
-# Herencia múltiple. Una clase como BicicletaElectrica puede heredar propiedades y métodos de dos clases diferentes
-# como son VElectricos y # Vehiculos. La primera clase de los argumentos tendra preferencia en el caso de que haya
-# métodos repetidos como puede ser en este caso el método constructor.
-class BicicletaElectrica(VElectricos,Vehiculos):
-    pass
 
-
-
-
-# Conceptos: Herencia, Sobreescritura de métodos, Herencia múltiplemoto1 = Moto('Honda','CBR')
-moto1.arrancar()
-moto1.caballito()
-moto1.estado()
-
-print('-----------------------------------------------  Furgo 1  -----------------------------------------------------')
-furgo1 = Furgoneta('Renaul','kangoo')
-furgo1.arrancar()
-print(furgo1.carga(True))
-furgo1.estado()
-
-print('---------------------------------------------  BiciElectrica 1  -----------------------------------------------')
-miBici = BicicletaElectrica()
