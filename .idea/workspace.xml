@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeda2457-652c-41f2-b232-7b4de65eec46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Excepciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepciones2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepciones_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/basicos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/basicos/operaciones_basicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/calculos_generales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/redondeo_potencia/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/calculos_paquete/redondeo_potencia/operaciones_complejas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/dist/paquetedistribuiblecalculos-1.0.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/paquetedistribuiblecalculos.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paquete_distribucion/paquete_distribuible/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archivo_externos_txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/basicos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/basicos/operaciones_basicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/calculos_generales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/redondeo_potencia/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos_paquete/redondeo_potencia/operaciones_complejas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase_objeto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metodo_cadenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/funciones_matematicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/modulo_vehiculos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/uso_modulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/uso_vehiculos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serializacion_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serializacion_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uso_calculo_paquete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coche.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vehiculo.py" beforeDir="false" />
-    </list>
+    <list default="true" id="aeda2457-652c-41f2-b232-7b4de65eec46" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,18 +327,18 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Excepciones2" />
+      <item itemvalue="Python.Excepciones" />
+      <item itemvalue="Python.Excepciones_3" />
+      <item itemvalue="Python.archivo_externos_txt" />
       <item itemvalue="Python.clase_objeto" />
       <item itemvalue="Python.herencia" />
-      <item itemvalue="Python.uso_calculo_paquete" />
-      <item itemvalue="Python.archivo_externos_txt" />
+      <item itemvalue="Python.herencia_super" />
+      <item itemvalue="Python.metodo_cadenas" />
+      <item itemvalue="Python.polimosrfismo" />
       <item itemvalue="Python.serializacion_collections" />
       <item itemvalue="Python.serializacion_objects" />
-      <item itemvalue="Python.herencia_super" />
-      <item itemvalue="Python.polimosrfismo" />
-      <item itemvalue="Python.Excepciones" />
-      <item itemvalue="Python.Excepciones2" />
-      <item itemvalue="Python.Excepciones_3" />
-      <item itemvalue="Python.metodo_cadenas" />
+      <item itemvalue="Python.uso_calculo_paquete" />
       <item itemvalue="Python.uso_modulo" />
       <item itemvalue="Python.uso_vehiculos" />
     </list>
@@ -522,10 +485,10 @@
     </state>
     <state x="2080" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1585336941988" />
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584778633738" />
-    <state x="2336" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1585336992182">
-      <screen x="1920" y="0" width="1440" height="860" />
+    <state x="370" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1585391084910">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="370" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585336697266" />
+    <state x="370" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1585391084910" />
     <state x="2336" y="255" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1585336992182" />
     <state x="470" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585337653135">
       <screen x="0" y="0" width="1280" height="680" />
